@@ -1,8 +1,10 @@
 ## Hi there 👋
-
-<!--
+    
+<iframe src="https://giphy.com/embed/NHvv0Bo3oGq1eTBDd1" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/geekinc-helloworld-programmation-srhelloworld-NHvv0Bo3oGq1eTBDd1">via GIPHY</a></p><!--
 **karthick0529/Karthick0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM4OW9odjk3czBsM3pjeGJwdHp0OTk2eXRsYmQ5ZmU4ZTVuMHF5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
