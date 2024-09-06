@@ -62,6 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ### :fire: My Stats :
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karthick0529)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick0529&layout=compact&theme=vision-friendly-dark)](https://github.com/karthick0529/github-readme-stats)
@@ -69,6 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthick0529&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/karthick0529/karthick0529/blob/output/github-contribution-grid-snake.svg)
+### 🍕 Feedings...
 
-![snake animation](https://github.com/<karthick0529>/<karthick0529>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/karthick0529/karthick0529/output/github-contribution-grid-snake-dark.svg)
+
