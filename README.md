@@ -69,3 +69,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthick0529&show_icons=true&theme=radical)
 
+![Snake animation](https://github.com/karthick0529/karthick0529/blob/output/github-contribution-grid-snake.svg)
