@@ -71,4 +71,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Snake animation](https://github.com/karthick0529/karthick0529/blob/output/github-contribution-grid-snake.svg)
 
-![snake animation](https://github.com/<seu karthick0529>/<seu karthick0529>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<karthick0529>/<karthick0529>/blob/output/github-contribution-grid-snake2.svg)
