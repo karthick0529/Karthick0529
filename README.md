@@ -2,15 +2,6 @@
   <img src="https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png" alt="Profile Image">
 </div>
 
-<div id="badges">
-  <a href="www.linkedin.com/in/karthick-r-85a730269">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/karthick0529">
-    <img src="https://img.shields.io/badge/github-green?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-</div>
-
 <h1>
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"/>
@@ -25,7 +16,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💻 Actively learning and exploring Full Stack Development (MERN).
 - 🌱 Currently focusing on Full stack development.
 - 💬 Ask me about HTML, CSS, JavaScript, React, MySQL, Express, Node, MongoDB.
-- 📫 How to reach me: karthicknandha619@gmail.com.
+- 📫 How to reach me:
+  karthicknandha619@gmail.com.
+<div id="badges">
+  <a href="www.linkedin.com/in/karthick-r-85a730269">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/karthick0529">
+    <img src="https://img.shields.io/badge/github-green?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
